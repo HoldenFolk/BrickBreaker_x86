@@ -2,6 +2,8 @@
 
 This project is a slightly simplified version of the Breakout Game, a significant piece of gaming history released in 1976 and designed by Steve Wozniak. The game is made entirely in x86 Assembly code and is compiled with TASM. 
 
+![Example image of game in action](./breakoutImage.JPG "The game in action!")
+
 ## How to run
 
 I used DOSBox, an x86 emulator, to run the game. Additionally, you will need to install TASM, a Turbo Assembler, to compile the game. 
