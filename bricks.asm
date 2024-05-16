@@ -2,7 +2,7 @@
 .model small
 .stack 100h
 .data
-	studentID db "260985200$" ; change the content of the string to your studentID (do not remove the $ at the end)
+	studentID db "101$" ; change the content of the string to your studentID (do not remove the $ at the end)
 	ball_x dw 160	 ; Default value: 160
 	ball_y dw 144	 ; Default value: 144
 	ball_x_vel dw 0	 ; Default value: 0
